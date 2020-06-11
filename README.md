@@ -1,3 +1,3 @@
-# PSModuleTemplate
+# Project name here
 
-Template repository for PowerShell modules
+Short description here
